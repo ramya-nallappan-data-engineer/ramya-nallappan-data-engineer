@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ramya
 
-<!--
-**ramya-nallappan-data-engineer/ramya-nallappan-data-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Data Engineer in Bengaluru. I build data platforms and pipelines for healthcare, with Snowflake, SQL and Python.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Snowflake data warehouses and migrations
+- ETL and orchestration with Airflow
+- Data quality checks that stop bad data early
+
+## Projects
+
+- [healthcare-de-platform](https://github.com/ramya-nallappan-data-engineer/healthcare-de-platform): Databricks, Snowflake and Airflow pipeline with a quality gate, tests and CI (synthetic data)
+- [airflow-dbt-claims-pipeline](https://github.com/ramya-nallappan-data-engineer/airflow-dbt-claims-pipeline): Airflow and dbt healthcare claims pipeline, with data quality tests as a release gate
+- [enterprise-data-platform-snowflake](https://github.com/ramya-nallappan-data-engineer/enterprise-data-platform-snowflake): data platform on Snowflake following modern data engineering practices
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ramya-nallappan/)
